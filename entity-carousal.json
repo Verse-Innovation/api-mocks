@@ -2,7 +2,7 @@
     "code": 200,
     "data": {
         "count": 3,
-        "nextPageUrl": "https://stage-api-news.dailyhunt.in/api/v2/posts/feed/HASHTAG/aaeda998a1cc2fef16dae7550f797db3?entityTitle=Lifestyle&pullId=1655707756413&pageNumber=1&pageScrollStart=-HASHTAG%231649668251000%3A332507b9870367dca1664f4f185042d0%3APUBLISH_DATE_SORT-SOURCE%231655281358000%3Adh8bba096b5a894575a994e493b3ea3613%3APUBLISH_DATE_SORT&langCode=en&edition=india&pageSize=10&section=discovery&feedConfigKey=DISCOVERY_FOLLOWED_ENTITY_FEED&appLanguage=en",
+        "nextPageUrl": "https://raw.githubusercontent.com/Verse-Innovation/api-mocks/master/entity-carousal.json",
         "rows": [
             {
                 "id": "n255861349",
